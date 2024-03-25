@@ -1,3 +1,7 @@
+import sys
+print(sys.path)
+
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
